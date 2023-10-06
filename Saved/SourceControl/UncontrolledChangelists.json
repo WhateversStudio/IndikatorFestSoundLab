@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Maps/WildWest.umap",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-008.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-001.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-002.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-003.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-004.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-005.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-006.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footsteps-007.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/Sounds/Wavs/footstep_meta.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/n.mushkov/IndikatorFestSoundLab/Content/Wild_West/SHAGI.uasset"
+			]
+		}
+	]
+}
